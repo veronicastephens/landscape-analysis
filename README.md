@@ -1,8 +1,7 @@
 #### landscape-analysis
 
 ### Project Goal
-While firm leader on Confluence Park project, created grading and site plans
-See San Antonio River Foundation website: https://sariverfound.org/confluence-park/
+While firm leader on Confluence Park project, created grading and site plans. See San Antonio River Foundation website: https://sariverfound.org/confluence-park/
 
 ### Summary
 Overall, landscape architecture projects must include spatial analysis. Analysis takes place in numerous areas, including proposed and existing: utility services, orientation of the project, prevailing wind direction, sun and shade patterns, topography, flow of surface and groundwater, soil composition, condition of trees and plants, viewsheds, and environmental factors. The grading and tree cover analysis are also subject to federal and local laws and ordinances. 
